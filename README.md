@@ -1,1 +1,1 @@
-# terrafgorm-local-module-static-website
+# terraform-local-module-static-website
